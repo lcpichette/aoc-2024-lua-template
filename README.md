@@ -4,12 +4,12 @@
 
 Lua. Installable at: https://www.lua.org/download.html
 
-Installable via `lua install_dependencies.lua`
-
 Luarocks. Installable at: https://github.com/luarocks/luarocks/wiki/Download
 
 1. luafilesystem
 2. lunatest
+
+All luarocks dependencies are installable via `lua install_dependencies.lua`
 
 ## Running
 
